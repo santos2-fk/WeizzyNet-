@@ -1,0 +1,19 @@
+WEIZZY NET v0.2
+
+Este pacote contém:
+- android/: projeto Android Studio do protótipo.
+- preview/index.html: prévia interativa que pode ser aberta no Chrome do telefone.
+
+IMPORTANTE
+A prévia não cria franquia de internet. O limite de 3 GB é apenas um limite lógico para armazenamento/cache.
+O APK Android ainda precisa ser compilado e assinado em um ambiente Android (Android Studio/Gradle). Neste ambiente de conversa não há Android SDK/Gradle disponível para gerar um APK instalável.
+
+Também não há como eu publicar um link público na internet ou instalar diretamente no seu telefone a partir desta conversa.
+
+Para testar imediatamente no telefone:
+1. Baixe este pacote.
+2. Extraia o arquivo.
+3. Abra preview/index.html no Chrome.
+4. Toque em “Salvar net” para experimentar a interface.
+
+Para transformar o projeto Android em APK, abra a pasta android/ no Android Studio e gere um APK de teste. Não coloque documentos, senhas bancárias ou chaves de pagamento no código.
